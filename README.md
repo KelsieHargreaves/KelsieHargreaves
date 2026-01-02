@@ -7,7 +7,7 @@ Frontend developer and designer
 I am a frontend developer with a love for website design.
 
 * 🌍  I'm based in Minnesota
-* 🖥️  See my portfolio at [My Portfolio](http://advance-portfolio-main.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio]((https://tech-portfolio-snowy.vercel.app/#projects))
 * ✉️  You can contact me at [kelsie.hargreaves@yahoo.com](mailto:kelsie.hargreaves@yahoo.com)
 * 🧠  I'm currently learning about advanced technologies in frontend
 * 💬  I am a lover of Christ, a mom of 4, and a teacher to my littles
